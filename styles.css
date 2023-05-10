@@ -8,16 +8,16 @@
 
   h1{
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   font-size: 3rem;
+   font-size: 4rem;
    line-height: 1.5;
   }
   h3{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
   }
 
   h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 2rem;
     line-height: 1.5;
